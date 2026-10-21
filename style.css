@@ -79,6 +79,28 @@
     color: var(--green-color);
 }
 
+.m-images{
+ background-color: hsl(93, 78%, 82%);
+}
+
+.mbox{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin-left: 50px;
+   
+}
+
+.m1 img{
+    width: 650px;
+    margin: 10px;
+}
+
+.m1 img:hover{
+    zoom: normal;
+
+}
 
 
 
